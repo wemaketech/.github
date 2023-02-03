@@ -7,8 +7,6 @@ Our stack is
 - ReactJS/Typescript/JavaScript (Front End)
 - NodeJS (Back End)
 - Solidity (Blockchain)
-- Kotlin/Java (Android)
-- Swift (iOS/iPadOS)
 
 Website <a href="https://we-make.tech" target="_blank">we-make.tech</a>
 
