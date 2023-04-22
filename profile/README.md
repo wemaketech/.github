@@ -1,13 +1,14 @@
 # We Make Tech
 
-We're a dev shop company that can help you to develop ready-to-use blockchain-related products. The main stack is Solidity, Typescript, NodeJS, and React. We are also experienced with a variety of different technologies
+We're an innovative dev shop dedicated to crafting ready-to-use blockchain solutions tailored to your needs. Our core expertise lies in Solidity, Typescript, NodeJS, and React, but our experience spans a vast range of technologies.
 
-Our stack is
+Our Stack:
 
-- ReactJS/Typescript/JavaScript (Front End)
-- NodeJS (Back End)
-- Solidity (Blockchain)
+* Blockchain: Ethereum, Avalaunch, BNB Chain
+* Design: UI/UX, Branding
+* Front-End: ReactJS, Angular, Typescript, JavaScript
+* Back-End: NodeJS
+* Mobile Development: Android, iOS
+* DevOps: Kubernetes, AWS
 
-Website <a href="https://we-make.tech" target="_blank">we-make.tech</a>
-
-Let's build together!
+Ready to bring your vision to life? Check out our website at <a href="https://we-make.tech" target="_blank">we-make.tech</a> and explore our GitHub organization for more insights into our public projects. Let's create something amazing together!
